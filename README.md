@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+OpenAI API documentation : https://platform.openai.com/docs/introduction/gpts
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
